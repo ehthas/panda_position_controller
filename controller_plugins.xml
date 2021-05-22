@@ -1,0 +1,6 @@
+<library path="lib/libpanda_position_controller_lib">
+   <class name="panda_position_controller/JointPositionController"
+          type="panda_position_controller_ns::JointPositionController"
+          base_class_type="controller_interface::ControllerBase" />
+</library>
+
